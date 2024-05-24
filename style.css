@@ -1,0 +1,63 @@
+.img2{
+    width: 50px;
+     margin-right: 300px;
+     margin-top: 20px;
+    
+    
+}
+
+header h1{
+   text-align: center;
+}
+
+.img1{
+    width: 50px;
+     margin-left: 300px;
+     margin-top: 20px;
+}
+
+a{
+    margin:50px ;
+    text-decoration: none;
+    color:green;
+    font-size: 17px;
+   
+
+}
+header{
+    background-color: green;
+    margin: 40px;
+
+    
+}
+nav{
+    background-color: white;
+}
+
+main{
+    background-color:green;
+}
+.img3{
+    width: 200px;
+    margin-left:10px;
+}
+.img4{
+    width: 200px;
+    margin-left: 10px;
+}
+
+.img5{
+    width: 200px;
+    margin-left:10px;
+}
+.img6{
+    width: 200px;
+    margin-left: 10px;
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+}
+article{
+    width: auto;
+}
